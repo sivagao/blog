@@ -16,5 +16,8 @@
     "hexo-renderer-marked": "^0.2.6",
     "hexo-renderer-stylus": "^0.3.0",
     "hexo-server": "^0.1.2"
+  },
+  "devDependencies": {
+    "gulp-gh-pages": "^0.5.4"
   }
 }
