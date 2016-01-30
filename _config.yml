@@ -7,8 +7,33 @@ title: Highway to the Wild
 subtitle: 数字游民的养成~
 description: sivagao's home blog which archives something fun
 author: Siva Gao
-language:
+language: zh-Hans
 timezone:
+
+keywords: "sivagao, nomad, ndoe.js"
+
+# =============================================================================
+# NexT Theme configuration
+# =============================================================================
+
+avatar: http://sivagao.com/content/images/2015/09/avatar.jpg
+duoshuo_shortname: sivagao-blog
+baidu_analytics: 968e1699fcafa46aee46e5335eb493d7
+# JiaThis 分享服务
+jiathis: true
+# 社交链接，将在侧栏中显示
+social:
+  GitHub: https://github.com/gaohailang
+  Twitter: https://twitter.com/ghlndsl
+  Weibo: http://weibo.com/1siva
+  DouBan: http://www.douban.com/people/sivaGao/
+  ZhiHu: https://www.zhihu.com/people/1siva
+# creative_commons: by-nc-sa
+# 站点起始时间
+since: 2016
+# =============================================================================
+# End NexT Theme configuration
+# =============================================================================
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -48,8 +73,8 @@ default_category: inbox # 默认分类
 category_map:
 tag_map:
 
-# Date / Time format
-## Hexo uses Moment.js to parse and display date
+# Date / Time formmenat
+## Hexo uses Mot.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
@@ -63,7 +88,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next # default landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
