@@ -1,0 +1,234 @@
+# ---------------------------------------------------------------
+# Site Information Settings
+# ---------------------------------------------------------------
+
+# Place your favicon.ico to /source directory.
+favicon: /favicon.ico
+
+# Set default keywords (Use a comma to separate)
+
+# Set rss to false to disable feed link.
+# Leave rss as empty to use site's feed link.
+# Set rss to specific value if you have burned your feed already.
+rss:
+
+# Specify the date when the site was setup
+#since: 2015
+
+
+
+
+# ---------------------------------------------------------------
+# Menu Settings
+# ---------------------------------------------------------------
+
+# When running hexo in a subdirectory (e.g. domain.tld/blog)
+# Remove leading slashes ( "/archives" -> "archives" )
+menu:
+  home: /
+  categories: /categories
+  about: /about
+  archives: /archives
+  tags: /tags
+  # commonweal: /404.html
+
+
+# Enable/Disable menu icons.
+# Icon Mapping:
+#   Map a menu item to a specific FontAwesome icon name.
+#   Key is the name of menu item and value is the name of FontAwsome icon.
+#   When an question mask icon presenting up means that the item has no mapping icon.
+menu_icons:
+  enable: true
+  # Icon Mapping.
+  home: home
+  about: user
+  categories: th
+  tags: tags
+  archives: archive
+  commonweal: heartbeat
+
+
+
+
+# ---------------------------------------------------------------
+# Scheme Settings
+# ---------------------------------------------------------------
+
+# Schemes
+# scheme: Muse
+#scheme: Mist
+scheme: Pisces
+
+
+
+# ---------------------------------------------------------------
+# Sidebar Settings
+# ---------------------------------------------------------------
+
+
+# Social links
+# social:
+  #GitHub:
+  #Others:
+
+# Social Icons
+social_icons:
+  enable: true
+  # Icon Mappings
+  GitHub: github
+  Twitter: twitter
+  Weibo: weibo
+
+
+# Sidebar Avatar
+# in theme directory(source/images): /images/avatar.jpg
+# in site  directory(source/uploads): /uploads/avatar.jpg
+# default : /images/default_avatar.jpg
+#avatar:
+
+
+# TOC in the Sidebar
+toc:
+  enable: true
+
+  # Automatically add list number to toc.
+  number: false
+
+
+# Creative Commons 4.0 International License.
+# http://creativecommons.org/
+# Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
+#creative_commons: by-nc-sa
+#creative_commons:
+
+sidebar:
+  # Sidebar Position, available value: left | right
+  position: left
+  #position: right
+
+  # Sidebar Display, available value:
+  #  - post    expand on posts automatically. Default.
+  #  - always  expand for all pages automatically
+  #  - hide    expand only when click on the sidebar toggle icon.
+  #  - remove  Totally remove sidebar including sidebar toggle icon.
+  display: post
+  #display: always
+  #display: hide
+  #display: remove
+
+
+
+# ---------------------------------------------------------------
+# Misc Theme Settings
+# ---------------------------------------------------------------
+
+# Custom Logo.
+# !!Only available for Default Scheme currently.
+# Options:
+#   enabled: [true/false] - Replace with specific image
+#   image: url-of-image   - Images's url
+custom_logo:
+  enabled: false
+  image:
+
+
+# Code Highlight theme
+# Available value:
+#    normal | night | night eighties | night blue | night bright
+# https://github.com/chriskempson/tomorrow-theme
+highlight_theme: normal
+
+# Automatically scroll page to section which is under <!-- more --> mark.
+scroll_to_more: true
+
+# Use Lato font
+use_font_lato: true
+
+
+
+# ---------------------------------------------------------------
+# Third Party Services Settings
+# ---------------------------------------------------------------
+
+# MathJax Support
+mathjax:
+
+
+# Swiftype Search API Key
+#swiftype_key:
+
+# Baidu Analytics ID
+#baidu_analytics:
+
+# Duoshuo ShortName
+#duoshuo_shortname:
+
+# Disqus
+#disqus_shortname:
+
+# Share
+#jiathis:
+
+# Share
+#duoshuo_share: true
+
+# Google Webmaster tools verification setting
+# See: https://www.google.com/webmasters/
+#google_site_verification:
+
+
+# Google Analytics
+#google_analytics:
+
+
+# Make duoshuo show UA
+# user_id must NOT be null when admin_enable is true!
+# you can visit http://dev.duoshuo.com get duoshuo user id.
+duoshuo_info:
+  ua_enable: true
+  admin_enable: false
+  user_id: 0
+  #admin_nickname: ROOT
+
+
+# Facebook SDK Support.
+# https://github.com/iissnan/hexo-theme-next/pull/410
+facebook_sdk:
+  enable: false
+  app_id:       #<app_id>
+  fb_admin:     #<user_id>
+  like_button:  #true
+  webmaster:    #true
+
+
+# Show number of visitors to each article.
+# You can visit https://leancloud.cn get AppID and AppKey.
+leancloud_visitors:
+  enable: true
+  app_id: keYWlIGy4iO5M1C29zrEkLXI-gzGzoHsz
+  app_key: Mtn7M5zjpMfEHLBnkOwcTuRK
+
+auto_excerpt:
+  enable: true
+  length: 150
+
+#! ---------------------------------------------------------------
+#! DO NOT EDIT THE FOLLOWING SETTINGS
+#! UNLESS YOU KNOW WHAT YOU ARE DOING
+#! ---------------------------------------------------------------
+
+# Motion
+use_motion: true
+
+# Fancybox
+fancybox: true
+
+# Static files
+vendors: vendors
+css: css
+js: js
+images: images
+
+# Theme version
+version: 5.0.0
