@@ -1,6 +1,6 @@
 ---
 title: 【Node】Node 接入层 - 技术选型
-categoryies: 技术
+categories: 技术
 tags: [Node.js, JavaScript]
 date: 2015-12-07 07:56:29
 keywords: Nodejs, 前端, ES6

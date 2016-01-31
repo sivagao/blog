@@ -1,6 +1,6 @@
 ---
 title: 【HowTo】整理照片
-categoryies: HowTo
+categories: HowTo
 keywords: Google, Photos, 'Google Photos', 数码照片
 ---
 

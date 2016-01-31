@@ -1,6 +1,6 @@
 ---
 title: 【读书笔记】情商
-categoryies: 读书
+categories: 读书
 tags: [Node.js, JavaScript]
 date: 2015-12-23 07:56:29
 keywords: Nodejs, 前端, ES6

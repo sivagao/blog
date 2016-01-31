@@ -1,6 +1,6 @@
 ---
 title: 【ionic】Ionic/cordova App 更新机制总结
-categoryies: 技术-前端开发
+categories: 技术-前端开发
 tags: [ionic, 混合应用, JavaScript]
 date: 2015-11-19 07:56:29
 keywords: Nodejs, 前端, ES6

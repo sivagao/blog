@@ -1,6 +1,6 @@
 ---
 title: 【HowTo】一小时搭建个论坛 - Discourse 篇
-categoryies: HowTo
+categories: HowTo
 keywords: HowTO
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 【Angular】使用 ngMockE2E 模拟 api 数据
-categoryies: 技术-前端开发
+categories: 技术-前端开发
 tags: [Angular, JavaScript]
 date: 2015-08-07 07:56:29
 keywords: ngMock, 前端, ES6
