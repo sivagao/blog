@@ -1,5 +1,6 @@
 ---
-title: 读书笔记 - $100 startup
+title: 【读书笔记】$100 startup
+date: 2015-09-22 18:56:29
 ---
 
 the $100 startup

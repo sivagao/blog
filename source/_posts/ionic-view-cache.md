@@ -2,7 +2,7 @@
 title: 【ionic】玩转 view cache
 categoryies: 技术-前端开发
 tags: [ionic, 混合应用, JavaScript]
-date: 2013-10-30 07:56:29
+date: 2015-10-30 07:56:29
 keywords: Nodejs, 前端, ES6
 ---
 
