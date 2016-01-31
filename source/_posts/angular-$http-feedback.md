@@ -1,6 +1,6 @@
 ---
 title: 【Angular】给 $http 加上好用的操作提示indicator interceptor
-categoryies: 技术-前端开发
+categories: 技术-前端开发
 tags: [Angular, JavaScript]
 date: 2015-09-11 07:56:29
 keywords: Nodejs, 前端, ES6

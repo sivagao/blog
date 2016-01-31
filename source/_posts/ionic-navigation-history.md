@@ -1,6 +1,6 @@
 ---
 title: 【ionic】Navigation 和 ionHistory 详解
-categoryies: 技术-前端开发
+categories: 技术-前端开发
 tags: [ionic, 混合应用, JavaScript]
 date: 2015-10-30 18:56:29
 keywords: Nodejs, 前端, ES6
