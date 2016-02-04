@@ -9,3 +9,6 @@
 hexo g
 gulp deploy
 
+### sivagao.com 部署
+sh ./private/deploy-is26
+nginx 配置见目录
