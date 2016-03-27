@@ -1,5 +1,11 @@
+---
+title: 【Tech-Guide】Mongodb 简要面试问题
+categories:  Tech-Guide
+keywords: Mongodb, fullstack, Node.js
+date: 2016-02-28 07:56:29
+---
 
-关于面试的原则请参考 - <>
+从去年开始，团队就开始要从前端要向一个全职能的部门去转变，所以要陆陆续续总结一些后端技术的面试指南，用于团队面试。
 
 ## 基本概念
  - 有哪些类型的NoSQL的数据库，各自的应用场景，你是怎么理解的NoSQL的
@@ -49,4 +55,6 @@
 ## 参考
 [官方FAQ](https://docs.mongodb.org/manual/faq/developers/)
 [MongoDB APplied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
+[七周七数据库](http://douban.com/?search)
+
 
