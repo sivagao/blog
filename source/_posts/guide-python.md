@@ -1,3 +1,12 @@
+---
+title: 【Tech-Guide】Python 简要面试问题
+categories:  Tech-Guide
+keywords: Python, fullstack, Node.js
+date: 2016-02-29 07:56:29
+---
+
+从去年开始，团队就开始要从前端要向一个全职能的部门去转变，所以要陆陆续续总结一些后端技术的面试指南，用于团队面试。
+
 ## 脚本开发
 - 如何在Python处理一个8G大小的文本（迭代器，with等）
 - 你用Python做过哪些好用有趣的脚本
