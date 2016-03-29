@@ -1,3 +1,4 @@
+{% raw %}
 ## Angular 是什么
 ## Angular 由哪些部分组成
 ### Component
@@ -166,3 +167,5 @@ performance 性能提升
 ![](../images/14563664996223.jpg)
 
 
+
+{% endraw %}
