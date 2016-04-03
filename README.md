@@ -55,7 +55,7 @@
 为了方便跟踪和记录，我颇有仪式感的在每篇标题加上日期标注下。这样较为清晰的标识，既能督促自己也能给我不少的成就感。
 写完后，我通常会通过[稀土掘金](http://gold.xitu.io)分享给技术圈的朋友们，希望得到相应的反馈来优化改正自己翻译或书写过程中不完善的地方，提升自己。（如果你运营着类似于公众号或技术分享网站赏脸要转载时，加上作者/译者信息就可以了，如果可以在社交网络上@我一下，那就更好不过了~ 我的微信号是：[ghlndsl](https://raw.githubusercontent.com/gaohailang/blog/master/source/images/wechat-qrcode.jpg)，[微博](http://weibo.com/1siva)，[Twitter](https://twitter.com/ghlndsl)）
 
-![](https://raw.githubusercontent.com/gaohailang/blog/master/source/images/xitu-myshare.jpg)
+![](https://raw.githubusercontent.com/gaohailang/blog/master/source/images/xitu-myshare.png)
 
 
 > 为了更宽广的技术视野，满足永无止境的好奇心，和能和不同技术栈背景的人相谈胜欢，现在就开始广泛阅读吧
