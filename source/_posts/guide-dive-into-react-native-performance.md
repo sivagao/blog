@@ -1,3 +1,8 @@
+---
+title: 【翻译】 看Facebook是如何优化它们React Native应用性能的
+categories: Translate
+keywords: Facebook, performance, react
+---
 
 该文章翻译自Facebook官方博客，[传送门](https://code.facebook.com/posts/895897210527114/) 
 
