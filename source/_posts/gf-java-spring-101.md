@@ -36,7 +36,7 @@ c#.net 中早就有了（尤其），即使j8的lambda，closure也在其他中�
 但是选择语言不是只看语言本身，看类库。社区提供了很多强大的工具类库等 
 
 非常有趣的是不仅仅贡献java语言本身，也贡献了另外的jvm，和在它之上的（业界领先的vm，高性能的，同时（遵循jvm语言规范后）对语言支持很好） 
-上面scala「spark选用它作为主要的编程语言」，gravy（很多spring里，很多在用 
+上面scala「spark选用它作为主要的编程语言」，groovy（很多spring里，很多在用 
 JavaScript可以在jvm上跑（ 
 clojure 
 
@@ -100,7 +100,7 @@ actuator 让operation运维的痛点（譬如application health, 还是启动时
 
 但是光光boot不能解决所有问题，你的app需要访问底层数据库（如sql写过，select from where xx id = xxx等）这种boilerplate希望系统来帮我们生成（save，delete这些逻辑都很简单，需要被节省下来） 
 
-于是spring想到这点，有spring data项目包含了很多（如spring-data=redis,抽象层在store和在model之间） 
+于是spring想到这点，有spring data项目包含了很多（如spring-data-redis,抽象层在store和在model之间） 
 jpa - persistent api 相同的目的，把jpa更加抽象一下（对数据访问更为简单， 
 spring data让method name和参数来自动生成sql 
 
