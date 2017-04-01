@@ -262,6 +262,14 @@ ES_JAVA_OPTS="-Xms4000m -Xmx4000m"
 
 做了些可视化
 
+![](media/14852280998705.jpg)
+
+
+
+![](media/14852281023114.jpg)
+
+
+
 仅仅才2k多的document消费起来居然那么慢。。。（后续调优！！）
 
 // 写脚本，每隔n秒，插入几个到 csv 文件然后 es 中
@@ -328,11 +336,6 @@ http://[your_host]:9200/[your_index_name_here]/[your_type_here]/[your_doc_id]
 
 ## 截图实践
 
-![](media/14852280998705.jpg)
-
-
-
-![](media/14852281023114.jpg)
 
 
 ![](media/14852281051955.jpg)

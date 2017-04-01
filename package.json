@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.1.1"
+    "version": "3.2.0"
+  },
+  "scripts": {
+    "deploy:is26": "rsync -cauvz -e 'ssh -p 64656' public sivagao@106.187.102.77:/home/sivagao/projects/blog"
   },
   "dependencies": {
     "hexo": "^3.1.1",

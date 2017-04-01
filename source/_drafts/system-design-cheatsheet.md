@@ -108,20 +108,14 @@ Picking the right architecture = Picking the right battles + Managing trade-offs
 	- 部署流程
 	- 持续集成（Travis CI，Jenkins）
 
+
 一些链接：
 How to rock a systems design interview
-
 System Design Interviewing
-
 Scalability for Dummies
-
 Introduction to Architecting Systems for Scale
-
 Scalable System Design Patterns
-
 Scalable Web Architecture and Distributed Systems
-
 What is the best way to design a web site to be highly scalable?
-
 How web works?
 
