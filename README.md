@@ -53,7 +53,7 @@
 我之前给自己定下的目标是一天一篇文章，事实上这样的并不可控，有时候工作日忙一些抽不出时间来写，有时候周末假期没有约的时候却又不少空闲，此时会去集中突破下。
 
 为了方便跟踪和记录，我颇有仪式感的在每篇标题加上日期标注下。这样较为清晰的标识，既能督促自己也能给我不少的成就感。
-写完后，我通常会通过[稀土掘金](http://gold.xitu.io)分享给技术圈的朋友们，希望得到相应的反馈来优化改正自己翻译或书写过程中不完善的地方，提升自己。（如果你运营着类似于公众号或技术分享网站赏脸要转载时，加上作者/译者信息就可以了，如果可以在社交网络上@我一下，那就更好不过了~ 我的微信号是：[ghlndsl](https://raw.githubusercontent.com/gaohailang/blog/master/source/images/wechat-qrcode.jpg)，[微博](http://weibo.com/1siva)，[Twitter](https://twitter.com/ghlndsl)）
+写完后，我通常会通过[稀土掘金](http://gold.xitu.io)分享给技术圈的朋友们，希望得到相应的反馈来优化改正自己翻译或书写过程中不完善的地方，提升自己。（如果你运营着类似于公众号或技术分享网站赏脸要转载时，加上作者/译者信息就可以了，如果可以在社交网络上@我一下，那就更好不过了~ 
 
 ![](https://raw.githubusercontent.com/gaohailang/blog/master/source/images/xitu-myshare.png)
 
